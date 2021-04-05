@@ -5,13 +5,12 @@ I **Issac Garcia** intend to become a Software Engineer.
 I avide by the following words by **Alfred Aho**:
 > Computer Science is a science of abstraction -creating the right model for a problem and devising the appropriate mechanizable techniques to solve it.
 
-'
-// Sometimes I believe the compiler ignores all of my comments
-'
+`// Sometimes I believe the compiler ignores all of my comments`
+
 
 If you want to take a look at my LinkedIn you can use the following Link [LinkedIn](https://www.linkedin.com/in/isaacgcroz/).
 
-[My name is Issac Garcia] (#my-name-is-issac-garcia)
+[Go to My name is Issac Garcia] (#my-name-is-issac-garcia)
 
 # ScreenShots
 
