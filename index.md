@@ -15,17 +15,17 @@ If you want to take a look at my LinkedIn you can use the following Link [Linked
 
 # ScreenShots
 
-![ScreenShots](Screen%20Shot%202021-04-04%20at%2011.07.48%20PM.png)
-![ScreenShots](Screen%20Shot%202021-04-04%20at%2011.08.06%20PM.png)
-![ScreenShots](Screen%20Shot%202021-04-04%20at%2011.08.45%20PM.png)
-![ScreenShots](Screen%20Shot%202021-04-04%20at%2011.27.45%20PM.png)
-![ScreenShots](Screen%20Shot%202021-04-04%20at%2011.28.28%20PM.png)
-![ScreenShots](Screen%20Shot%202021-04-04%20at%2011.45.17%20PM.png)
-![ScreenShots](Screen%20Shot%202021-04-04%20at%2011.45.22%20PM.png)
-![ScreenShots](Screen%20Shot%202021-04-04%20at%2011.45.27%20PM.png)
-![ScreenShots](Screen%20Shot%202021-04-04%20at%2011.45.33%20PM.png)
-![ScreenShots](Screen%20Shot%202021-04-04%20at%2011.45.36%20PM.png)
-![ScreenShots](Screen%20Shot%202021-04-04%20at%2011.45.43%20PM.png)
+![ScreenShots](./screenshots/Screen%20Shot%202021-04-04%20at%2011.07.48%20PM.png)
+![ScreenShots](./screenshots/Screen%20Shot%202021-04-04%20at%2011.08.06%20PM.png)
+![ScreenShots](./screenshots/Screen%20Shot%202021-04-04%20at%2011.08.45%20PM.png)
+![ScreenShots](./screenshots/Screen%20Shot%202021-04-04%20at%2011.27.45%20PM.png)
+![ScreenShots](./screenshots/Screen%20Shot%202021-04-04%20at%2011.28.28%20PM.png)
+![ScreenShots](./screenshots/Screen%20Shot%202021-04-04%20at%2011.45.17%20PM.png)
+![ScreenShots](./screenshots/Screen%20Shot%202021-04-04%20at%2011.45.22%20PM.png)
+![ScreenShots](./screenshots/Screen%20Shot%202021-04-04%20at%2011.45.27%20PM.png)
+![ScreenShots](./screenshots/Screen%20Shot%202021-04-04%20at%2011.45.33%20PM.png)
+![ScreenShots](./screenshots/Screen%20Shot%202021-04-04%20at%2011.45.36%20PM.png)
+![ScreenShots](./screenshots/Screen%20Shot%202021-04-04%20at%2011.45.43%20PM.png)
 
 [Contribution guidelines for this project](./CONTRIBUTING.md)
 
