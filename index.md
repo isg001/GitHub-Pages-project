@@ -10,7 +10,7 @@ I avide by the following words by **Alfred Aho**:
 
 If you want to take a look at my LinkedIn you can use the following Link [LinkedIn](https://www.linkedin.com/in/isaacgcroz/).
 
-[Go to My name is Issac Garcia](#my-name-is-issac-garcia)
+[Go to -> My name is Issac Garcia](#my-name-is-issac-garcia)
 
 # ScreenShots
 
